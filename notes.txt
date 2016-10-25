@@ -1,0 +1,20 @@
+
+
+
+postico
+
+CREATE DATABASE ___
+
+USE ____
+
+\dt tables
+\d DATABASE
+
+
+\i *path to schema*
+
+pg
+
+SEQUEL INJECTION
+($1) []  - don't interpolate string
+"escape"

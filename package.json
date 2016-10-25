@@ -1,0 +1,27 @@
+{
+  "name": "sqlnavy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gist.github.com/72c436229d1f8698593bf299760d9f37.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/72c436229d1f8698593bf299760d9f37"
+  },
+  "homepage": "https://gist.github.com/72c436229d1f8698593bf299760d9f37",
+  "dependencies": {
+    "pg": "^6.1.0"
+  }
+
+}
+
+
